@@ -9,6 +9,11 @@ This repository is a summary of all current UHD resources I have authored
 3. PNG 3rd Edition Candidate Recommendation <br/>
   * https://www.w3.org/TR/png-3/
 4. eBooks Educational Series
-  * PENDING LIST
+  * Single-Master HDR-SDR Production Reference: Reading Scopes
+  * https://books.apple.com/us/book/nbcu-uhd-hdr-sdr-single-master-production-video-scopes/id6443385525
+  * Shading/Grading Professional Reference: 
+  * https://books.apple.com/us/book/nbcu-uhd-single-master-production-shading-grading-production/id6443508953
+  * Graphics Professional Reference
+  * https://books.apple.com/us/book/nbcu-uhd-single-master-production-graphics-content/id6443519839
            
 <br/>
