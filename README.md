@@ -1,7 +1,5 @@
-# UHD-HDR-SDR-Resources-Table-of-Contents
-This repository is a summary of all current UHD Resources I have authored
-
-## PNG 3rd Edition Release Candidate Example Files with cICP, mDCv, cLLi chunks<br/>
+# UHD-HDR-SDR Resources: Table of Contents
+This repository is a summary of all current UHD resources I have authored
 ---
 
 1. NBCUniversal, LLC Single-Master Production Workflow Recommendation and LUTs <br/>
