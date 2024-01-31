@@ -23,6 +23,6 @@ This repository is a summary of all current UHD resources I have authored
   * Objective Color Metrics for UHD HDR and SDR Broadcast Video
   * http://books.apple.com/us/book/id6446328898
 7. eBooks Educational Series (PDF Versions)
-  * https://github.com/digitaltvguy/NBCUniversal-UHD-HDR-SDR-Single-Master-Production-Workflow-Recommendation-LUTs/tree/main/___Training_Series 
+  * https://github.com/digitaltvguy/NBCUniversal-UHD-HDR-SDR-Single-Master-Production-Workflow-Recommendation-LUTs/tree/main/___eBook-PDF-Training_Series 
            
 <br/>
