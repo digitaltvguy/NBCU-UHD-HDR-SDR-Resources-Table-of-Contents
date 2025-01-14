@@ -6,19 +6,17 @@ This repository is a summary of all current UHD resources I have authored
   * https://github.com/digitaltvguy/NBCUniversal-UHD-HDR-SDR-Single-Master-Production-Workflow-Recommendation-LUTs
 2. Objective Color Metrics For Broadcast
   * https://github.com/digitaltvguy/UHD-HDR-SDR-Objective-Color-Metrics-For-Broadcasting
-3. PNG 3rd Edition Conformance Files for cICP, mDCv, cLLi metadata chunks for identifying video formats and tone-mapping
-  * https://github.com/digitaltvguy/PNG-3rd-Edition-cICP-mDCv-cLLi-Conformance-Files <br/>
-4. PNG 3rd Edition Candidate Recommendation <br/>
+3. PNG 3rd Edition Candidate Recommendation <br/>
   * https://www.w3.org/TR/png-3/
-5. PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files
+4. PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files
   * PNG, TIFF, MOV, MXF Conformance Test Files
   * All with cICP, mDCv, cLLi chunks for signaling HDR/SDR
   * TIFF with ICC CICP Tags
   * *[ICC Profile v.4.4.0.0 (2022)](https://www.color.org/specification/ICC.1-2022-05.pdf)
   * [PNG 3rd Edition](https://www.w3.org/TR/png-3/)
-6. NABA-NBCU-MovieLabs HDR-SDR Display Luminance Survey
+5. NABA-NBCU-MovieLabs HDR-SDR Display Luminance Survey
   * [NABA-NBCU-MovieLabs HDR-SDR Display Luminance Survey](https://github.com/digitaltvguy/SDR-HDR-Display-Luminance-Survey)
-7. eBooks Educational Series (Apple Books)
+6. eBooks Educational Series (Apple Books)
   * Single-Master HDR-SDR Production Reference: Reading Scopes
   * https://books.apple.com/us/book/id6443385525
   * Shading/Grading Professional Reference: 
@@ -27,7 +25,7 @@ This repository is a summary of all current UHD resources I have authored
   * https://books.apple.com/us/book/id6443519839
   * Objective Color Metrics for UHD HDR and SDR Broadcast Video
   * http://books.apple.com/us/book/id6446328898
-8. eBooks Educational Series (PDF Versions)
+7. eBooks Educational Series (PDF Versions)
   * https://github.com/digitaltvguy/NBCUniversal-UHD-HDR-SDR-Single-Master-Production-Workflow-Recommendation-LUTs/tree/main/___eBook-PDF-Training_Series 
            
 <br/>
