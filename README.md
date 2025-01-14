@@ -11,10 +11,12 @@ This repository is a summary of all current UHD resources I have authored
 4. PNG 3rd Edition Candidate Recommendation <br/>
   * https://www.w3.org/TR/png-3/
 5. PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files
-  * [PNG, TIFF, MOV, MXF Conformance Test Files
+  * PNG, TIFF, MOV, MXF Conformance Test Files
   * All with cICP, mDCv, cLLi chunks for signaling HDR/SDR
-  * [ICC Profile v.4.4.0.0 (2022)](https://www.color.org/specification/ICC.1-2022-05.pdf)
-  * [PNG 3rd Edition]([https://www.color.org/specification/ICC.1-2022-05.pdf](https://www.w3.org/TR/png-3/)
+  * TIFF with ICC CICP Tags
+  * *[ICC Profile v.4.4.0.0 (2022)](https://www.color.org/specification/ICC.1-2022-05.pdf)
+  * PNG 3rd Edition
+  * *(https://www.color.org/specification/ICC.1-2022-05.pdf](https://www.w3.org/TR/png-3/)
 6. NABA-NBCU-MovieLabs HDR-SDR Display Luminance Survey
   * [NABA-NBCU-MovieLabs HDR-SDR Display Luminance Survey](https://github.com/digitaltvguy/SDR-HDR-Display-Luminance-Survey)
 7. eBooks Educational Series (Apple Books)
