@@ -8,12 +8,12 @@ This repository is a summary of all current UHD resources I have authored
   * https://github.com/digitaltvguy/UHD-HDR-SDR-Objective-Color-Metrics-For-Broadcasting
 3. PNG 3rd Edition Candidate Recommendation <br/>
   * https://www.w3.org/TR/png-3/
-4. PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files
-  * PNG, TIFF, MOV, MXF Conformance Test Files
-  * All with cICP, mDCv, cLLi chunks for signaling HDR/SDR
-  * TIFF with ICC CICP Tags
-  * *[ICC Profile v.4.4.0.0 (2022)](https://www.color.org/specification/ICC.1-2022-05.pdf)
-  * [PNG 3rd Edition](https://www.w3.org/TR/png-3/)
+4. PNG, TIFF, MOV, MXF with CICP, MDCV, CLLI Conformance Files 
+  * For signaling HDR/SDR Color Gamut and Signal Range
+  * [ICC v.4.4.0.0 (2022) for CICP Tags](https://www.color.org/specification/ICC.1-2022-05.pdf)
+  * [PNG 3rd Edition cICP, mDCV, cLLI Chunks](https://www.w3.org/TR/png-3/)
+  * MOV uses NCLC to signal CICP
+  * MXF uses Picture Essence Descriptor to mimic CICP functionality
 5. NABA-NBCU-MovieLabs HDR-SDR Display Luminance Survey
   * [NABA-NBCU-MovieLabs HDR-SDR Display Luminance Survey](https://github.com/digitaltvguy/SDR-HDR-Display-Luminance-Survey)
 6. eBooks Educational Series (Apple Books)
