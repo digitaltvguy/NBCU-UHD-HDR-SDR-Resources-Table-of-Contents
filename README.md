@@ -9,7 +9,7 @@ This repository is a summary of all current UHD resources I have authored
 3. PNG 3rd Edition Candidate Recommendation <br/>
   * https://www.w3.org/TR/png-3/
 4. CICP Conformance Test Files - PNG 3rd Edition, TIFF, MOV, MXF, AVIF - also MDCV, CLLI
-  * [(https://github.com/digitaltvguy/CICP-Test-Files-PNG3rdEd-TIFF-MOV-MXF-AVIF-also-mDCV-and-cLLI)]
+  * https://github.com/digitaltvguy/CICP-Test-Files-PNG3rdEd-TIFF-MOV-MXF-AVIF-also-mDCV-and-cLLI
   * For signaling HDR/SDR Color Gamut and Signal Range
   * [ICC v.4.4.0.0 (2022) for CICP Tags](https://www.color.org/specification/ICC.1-2022-05.pdf)
   * [PNG 3rd Edition cICP, mDCV, cLLI Chunks](https://www.w3.org/TR/png-3/)
