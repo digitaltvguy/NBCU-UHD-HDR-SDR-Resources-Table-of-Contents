@@ -1,4 +1,4 @@
-# UHD-HDR-SDR Resources: Table of Contents
+# Single-Master UHD-HDR-SDR Resources: Table of Contents
 This repository is a summary of all current UHD resources I have authored
 ---
 
